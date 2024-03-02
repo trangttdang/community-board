@@ -35,3 +35,14 @@
 .Button:hover {
   background-color: #FFB5DA;
 }
+
+header > img{
+  max-width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .CardList {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust grid columns for smaller screens */
+    grid-gap: 20px; /* Reduce gap between grid items for smaller screens */
+  }
+}

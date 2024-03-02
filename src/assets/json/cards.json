@@ -1,0 +1,15 @@
+[
+    { "image": "src/assets/images/beautiful-moment.jpg", "title": "BEAUTIFUL MOMENT", "content": "2015" , "link": "https://www.youtube.com/watch?v=ugrXP_YT9j0&list=PLgNAVqTsP7ofqi7cUK6r0XKQRp1eXPwNy"},
+    { "image": "src/assets/images/take-two.png",  "title": "TAKE TWO", "content": "2023", "link": "https://www.youtube.com/watch?v=owjVpYCmwcg&list=PL5hrGMysD_GuhcQJ2qaMDi__3MlZSsddA"},
+    { "image": "src/assets/images/tear.jpg", "title": "LY - TEAR", "content": "2018" , "link": "https://www.youtube.com/watch?v=zdLvqiOmWq4&list=PLgNAVqTsP7odsw1WoIkj4D_w8NAqm9-2Q"},
+    { "image": "src/assets/images/young-forever.jpg", "title": "YOUNG FOREVER", "content": "2016" , "link": "https://www.youtube.com/watch?v=ugrXP_YT9j0&list=PLgNAVqTsP7ofqi7cUK6r0XKQRp1eXPwNy"},
+    { "image": "src/assets/images/ynwa.jpg",  "title": "YOU NEVER WALK ALONE", "content": "2020" , "link": "https://www.youtube.com/watch?v=ugrXP_YT9j0&list=PLgNAVqTsP7ofqi7cUK6r0XKQRp1eXPwNy"},
+    { "image": "src/assets/images/love-yourself.jpg", "title": "LY - ANSWER", "content": "2018" , "link": "https://www.youtube.com/watch?v=ugrXP_YT9j0&list=PLgNAVqTsP7ofqi7cUK6r0XKQRp1eXPwNy"},
+    { "image": "src/assets/images/skool-luv-affair.jpg", "title": "SKOOL LUV AFFAIR", "content": "2014" , "link": "https://www.youtube.com/watch?v=ugrXP_YT9j0&list=PLgNAVqTsP7ofqi7cUK6r0XKQRp1eXPwNy"},
+    { "image": "src/assets/images/seven.jpg",  "title": "MAP OF THE SOUL : 7", "content": "2020" , "link": "https://www.youtube.com/watch?v=ugrXP_YT9j0&list=PLgNAVqTsP7ofqi7cUK6r0XKQRp1eXPwNy"},
+    { "image": "src/assets/images/persona.jpg", "title": "PERSONA", "content": "2019" , "link": "https://www.youtube.com/watch?v=ugrXP_YT9j0&list=PLgNAVqTsP7ofqi7cUK6r0XKQRp1eXPwNy"},
+    { "image": "src/assets/images/cool-skool.jpg", "title": "2 COOL 4 SKOOL", "content": "2013" , "link": "https://www.youtube.com/watch?v=ugrXP_YT9j0&list=PLgNAVqTsP7ofqi7cUK6r0XKQRp1eXPwNy"},
+    { "image": "src/assets/images/dynamite.jpg",  "title": "DYNAMITE", "content": "2020" , "link": "https://www.youtube.com/watch?v=ugrXP_YT9j0&list=PLgNAVqTsP7ofqi7cUK6r0XKQRp1eXPwNy"},
+    { "image": "src/assets/images/dark-wild.jpg", "title": "DARK & WILD", "content": "2014" , "link": "https://www.youtube.com/watch?v=ugrXP_YT9j0&list=PLgNAVqTsP7ofqi7cUK6r0XKQRp1eXPwNy"}
+    
+]
